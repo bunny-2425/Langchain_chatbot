@@ -1,0 +1,7 @@
+flask
+requests
+beautifulsoup4
+langchain_community
+pinecone-client
+openai
+python-dotenv
